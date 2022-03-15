@@ -1,0 +1,21 @@
+{
+  "name": "tradingview-playwright",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DeveloperAlan/tradingview-playwright.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DeveloperAlan/tradingview-playwright/issues"
+  },
+  "homepage": "https://github.com/DeveloperAlan/tradingview-playwright#readme",
+  "devDependencies": {
+    "@playwright/test": "^1.20.0"
+  }
+}
